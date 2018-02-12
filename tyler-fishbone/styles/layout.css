@@ -5,6 +5,18 @@ nav, article, aside, footer section {
   width: 900px;
 }
 
+/* logo */
+#logo {
+  float: left;
+  padding-bottom: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+#logo img {
+  float: left;
+}
+
 /* nav */
 nav {
   margin-top: 25px;

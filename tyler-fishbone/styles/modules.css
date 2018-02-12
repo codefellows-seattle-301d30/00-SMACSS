@@ -1,16 +1,6 @@
 /* modules */
 
 /* logo */
-#logo {
-  float: left;
-  padding-bottom: 25px;
-  color: black;
-  text-decoration: none;
-}
-
-#logo img {
-  float: left;
-}
 
 #logo h1 {
   padding-left: 50px;
