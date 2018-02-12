@@ -57,8 +57,6 @@ input {
   line-height: 31px;
 }
 
-
-
 aside img {
   float: left;
 }
@@ -87,4 +85,11 @@ aside button {
   color: #fff;
   font-size: 1.2em;
   border: none;
+}
+
+footer section p {
+  padding: 50px 0;
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
 }

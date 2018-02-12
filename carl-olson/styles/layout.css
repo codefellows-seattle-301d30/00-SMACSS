@@ -49,8 +49,6 @@ hr {
   background-image: url('img/hr-img.gif');
 }
 
-
-
 aside {
   padding-top: 30px;
   padding-bottom: 60px
@@ -61,10 +59,3 @@ section hr {
   height: 0;
 }
 
-
-footer section p {
-  padding: 50px 0;
-  line-height: 1.5em;
-  text-align: center;
-  color: #aaa;
-}
