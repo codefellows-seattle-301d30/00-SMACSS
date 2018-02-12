@@ -1,24 +1,24 @@
-.recipe li {
-    float: left;
-    width: 40%;
-    font-size: 1.3em;
-    line-height: 31px;
-  }
-
-  .print img {
-    margin-right: 3px;
-  }
-
-  .print {
+.print {
     text-decoration: none;
     padding-left: 30px;
     float: right;
-  }
+}
 
-  .date {
+.date {
     float: left;
-  }
+}
 
-  #logo img {
+#logo img {
     float: left;
-  }
+}
+
+.recipe {
+    height: 260px;
+    padding: 37px 0 0 60px;
+    margin: 40px 0;
+}
+
+aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+}
