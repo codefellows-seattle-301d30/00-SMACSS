@@ -7,12 +7,15 @@ nav {
   margin-top: 25px;
 }
 
-nav ul {
+nav ul, .print {
   float: right;
 }
 
-nav li {
+aside img, #logo img, .date, nav li {
   float: left;
+}
+
+nav li {
   padding-right: 2px;
 }
 
@@ -21,22 +24,9 @@ aside {
   padding-bottom: 60px
 }
 
-aside img {
-  float: left;
-}
-
-#logo img {
-  float: left;
-}
-
-.date {
-  float: left;
-}
-
 .print {
   text-decoration: none;
   padding-left: 30px;
-  float: right;
 }
 
 .print img {
