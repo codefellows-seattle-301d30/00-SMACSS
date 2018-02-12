@@ -1,0 +1,14 @@
+.print img {
+  margin-right: 3px;
+}
+
+.recipe li {
+  float: left;
+  width: 40%;
+  font-size: 1.3em;
+  line-height: 31px;
+}
+
+aside img {
+  float: left;
+}
