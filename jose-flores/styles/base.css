@@ -7,3 +7,10 @@
 body {
   background: #fff;
 }
+
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+/*applies to all HTML, no class or Id selectors */
