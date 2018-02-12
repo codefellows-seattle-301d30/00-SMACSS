@@ -1,0 +1,11 @@
+hr {
+  background-image: url('img/hr-img.gif');
+}
+
+.recipe {
+  background-image: url("img/list-bg.png");
+}
+
+.recipe li {
+  font-size: 1.3em;
+}
